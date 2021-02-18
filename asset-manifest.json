@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-animals-photo-search-engine-app/static/css/main.d600d327.chunk.css",
+    "main.js": "/react-animals-photo-search-engine-app/static/js/main.1be7b45c.chunk.js",
+    "runtime-main.js": "/react-animals-photo-search-engine-app/static/js/runtime-main.1d4e7045.js",
+    "static/css/2.679831fc.chunk.css": "/react-animals-photo-search-engine-app/static/css/2.679831fc.chunk.css",
+    "static/js/2.b8cd17aa.chunk.js": "/react-animals-photo-search-engine-app/static/js/2.b8cd17aa.chunk.js",
+    "index.html": "/react-animals-photo-search-engine-app/index.html",
+    "static/media/arrow-down.f03a3cfe.svg": "/react-animals-photo-search-engine-app/static/media/arrow-down.f03a3cfe.svg",
+    "static/media/arrow-left.dbc9a2c1.svg": "/react-animals-photo-search-engine-app/static/media/arrow-left.dbc9a2c1.svg",
+    "static/media/arrow-right.20002c1c.svg": "/react-animals-photo-search-engine-app/static/media/arrow-right.20002c1c.svg",
+    "static/media/cross.486d740d.svg": "/react-animals-photo-search-engine-app/static/media/cross.486d740d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d4e7045.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.b8cd17aa.chunk.js",
+    "static/css/main.d600d327.chunk.css",
+    "static/js/main.1be7b45c.chunk.js"
+  ]
+}
