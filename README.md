@@ -7,9 +7,9 @@ Technologies and tools I've used with this project:
 - React Query
 - Styled Components
 
-Live: https://web-devvv.github.io/react-animals-photo-search-engine-app/
+Live: https://DawidMaka.github.io/react-animals-photo-search-engine-app/
 
-Src: https://github.com/web-deVVV/react-animals-photo-search-engine-app/tree/main/src
+Src: https://github.com/DawidMaka/react-animals-photo-search-engine-app/tree/main/src
 
 ## Description
 
@@ -17,9 +17,9 @@ Animals photo search engine based on <a href="https://unsplash.com/developers">U
 
 ## Instalation 
 ```sh
-git clone https://github.com/web-deVVV/react-animals-photo-search-engine-app [folder-name]
+git clone https://github.com/DawidMaka/react-animals-photo-search-engine-app [folder-name]
 cd [folder-name]
-yarn install
+yarn/npm install
 ```
 
 # Getting Started with Create React App
